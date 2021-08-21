@@ -1,0 +1,30 @@
+@import "./../node_modules/destyle.css/destyle.css";
+@import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Playfair+Display&family=Raleway&display=swap");
+
+html {
+  --color-text: #505050;
+  --color-primary: #c39738;
+  --color-light-grey: #999999;
+
+  --font-styled: "Abril Fatface', cursive";
+  --font-cta: "Playfair Display", serif;
+}
+
+body {
+  font-family: "Raleway", sans-serif;
+  color: var(--color-text);
+}
+
+section {
+  max-width: 60vw;
+  margin: auto;
+  margin-top: 8rem;
+}
+
+h2 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+  font-family: var(--font-styled);
+  color: var(--color-primary);
+  font-weight: 600;
+}
