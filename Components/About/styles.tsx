@@ -8,6 +8,9 @@ export const AboutWrapper = styled.section`
     line-height: 2rem;
     max-width: 70ch;
     margin: auto;
+
+    margin-bottom: 1rem;
+    text-align: left;
   }
 `;
 

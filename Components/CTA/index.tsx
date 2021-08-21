@@ -4,7 +4,7 @@ export const CTA = () => {
   return (
     <CTABackground>
       <CTAWrapper>
-        <h2>Call to action catchy heading</h2>
+        <h2>Sign up free to our "How to Decorate Your Outside Toilet" e-book</h2>
       </CTAWrapper>
     </CTABackground>
   );

@@ -6,23 +6,23 @@ export const Blog = () => {
     <BlogBackground>
       <BlogWrapper>
         <BlogCard
-          title="Etiam id ligula faucibus, lacinia diam sit amet, tincidunt augue."
+          title="Finding treasures at the thrift store"
           date="January 1st, 2021"
-          description="Cras arcu mauris, ultrices ut magna vel, dictum pulvinar mi. Duis dictum pellentesque eros, ac sagittis arcu hendrerit vel. Etiam."
+          description="Find hints and tips on scoring the best stuff at thrift stores"
           id="1"
           alt="alt text"
         />
         <BlogCard
-          title="Morbi porttitor ligula vel luctus luctus. In quis tortor nisi. Fusce a."
+          title="Vintage Nightstand makeover"
           date="January 11st, 2021"
-          description="Cras ac tincidunt augue. Ut malesuada est sed enim iaculis scelerisque. Praesent imperdiet volutpat volutpat. Donec in tristique."
+          description="Turning a boring nightstand into a shabby chic treasure"
           id="2"
           alt="alt text"
         />
         <BlogCard
-          title="Sed vehicula iaculis odio, vel varius diam vestibulum vitae."
+          title="A Simple Shabby Chic valentines table display"
           date="February 1st, 2021"
-          description="Curabitur scelerisque orci justo, sed egestas tortor accumsan eu. Sed elementum turpis ut cursus vestibulum. Orci varius natoque penatibus et magnis dis."
+          description="A romantic, neutral based table display to impress the one you love"
           id="3"
           alt="alt text"
         />

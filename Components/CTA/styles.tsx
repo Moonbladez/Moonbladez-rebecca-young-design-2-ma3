@@ -17,6 +17,7 @@ export const CTAWrapper = styled.section`
     color: var(--color-text);
     font-family: var(--font-cta);
     letter-spacing: 0.15rem;
-    text-align: center;
+    text-align: left;
+    line-height: 4rem;
   }
 `;
